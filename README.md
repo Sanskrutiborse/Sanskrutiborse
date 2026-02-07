@@ -1,6 +1,6 @@
 <!-- ===== Banner Image ===== -->
 <p align="center">
-  <img src="https://share.google/9hARdSATPTVzX7MQ9" width="100%" />
+  <img src="https://raw.githubusercontent.com/SanskrutiBorse/SanskrutiBorse/main/banner.gif" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sanskruti Borse</h1>
@@ -10,23 +10,24 @@
   <img src="https://komarev.com/ghpvc/?username=SanskrutiBorse&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-<!-- ===== Connect With Me ===== -->
+<!-- ===== Connect With Me (Icons Only) ===== -->
 <p align="center">
-  <a href="https://github.com/Sanskrutiborse" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-SanskrutiBorse-black?style=for-the-badge&logo=github"/>
+  <a href="https://github.com/SanskrutiBorse" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/sanskruti-borse" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Sanskruti%20Borse-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
   </a>
 </p>
 
 ---
 
 ## 👩‍💻 About Me
-- 💡 Passionate software developer focused on building clean and practical solutions  
-- 🤝 Open to collaborating on web and software projects  
-- 🌱 Constantly learning and improving through real-world development  
-- 🌐 Portfolio: **https://portfolioweb-eight-tau.vercel.app**
+- 💡 Passionate software developer building clean and practical solutions  
+- 🤝 Open to collaborating on meaningful projects  
+- 🌱 Continuously learning through real-world development  
+- 🌐 Portfolio: https://portfolioweb-eight-tau.vercel.app
 
 ---
 
@@ -48,4 +49,4 @@
 
 ---
 
-✨ *Always learning • Always building • Always improving*
+✨ Always learning • Always building • Always improving
