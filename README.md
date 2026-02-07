@@ -10,22 +10,6 @@
   <img src="https://komarev.com/ghpvc/?username=SanskrutiBorse&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
----
-
-## 🔗 Connect with Me
-<p align="center">
-  <a href="https://github.com/SanskrutiBorse" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/sanskruti-borse" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
-  </a>
-</p>
-
----
-
-## 👩‍💻 About Me
 - 💡 Passionate software developer building clean and practical solutions  
 - 🤝 Open to collaborating on meaningful projects  
 - 🌱 Continuously learning through real-world development  
@@ -36,6 +20,18 @@
 ## ⚡ Languages & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,bootstrap,react,tailwind,vite,mysql,flask,php&perline=7" />
+</p>
+
+---
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://github.com/SanskrutiBorse" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/sanskruti-borse" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+  </a>
 </p>
 
 ---
