@@ -3,19 +3,21 @@
   <img src="https://raw.githubusercontent.com/SanskrutiBorse/SanskrutiBorse/main/banner.gif" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Sanskruti Borse</h1>
+<h1 align="center">Hi 👋, I'm Sanskruti </h1>
 <h3 align="center">Passionate Software Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SanskrutiBorse&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-<!-- ===== Connect With Me (Icons Only) ===== -->
+---
+
+## 🔗 Connect with Me
 <p align="center">
   <a href="https://github.com/SanskrutiBorse" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/sanskruti-borse" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
   </a>
