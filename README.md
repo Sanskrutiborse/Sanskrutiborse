@@ -10,9 +10,10 @@
   <img src="https://komarev.com/ghpvc/?username=SanskrutiBorse&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-- 💡 Passionate software developer building clean and practical solutions  
-- 🤝 Open to collaborating on meaningful projects  
-- 🌱 Continuously learning through real-world development  
+- 💡 Passionate web developer with full-stack capabilities, focused on building clean, efficient, and scalable solutions  
+- 🧩 Skilled in translating ideas into responsive, high-quality user experiences  
+- 🤝 Open to collaboration on innovative web and full-stack development projects  
+- 🌱 Continuously improving through real-world problem solving and modern tech stacks  
 - 🌐 Portfolio: https://portfolioweb-eight-tau.vercel.app
 
 ---
@@ -36,15 +37,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanskrutiBorse&layout=compact&theme=tokyonight" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanskrutiBorse&show_icons=true&theme=tokyonight" />
-</p>
-
----
 
 ✨ Always learning • Always building • Always improving
